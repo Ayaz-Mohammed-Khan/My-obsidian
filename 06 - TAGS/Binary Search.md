@@ -1,0 +1,3 @@
+- Peak of the mountain
+- Pivot of the rotated sorted array
+- Floor and ceiling of a number

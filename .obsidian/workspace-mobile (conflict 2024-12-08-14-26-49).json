@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "2a9b68cf0d5349d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7645494d881122b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2fb13eb3a797bc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c58937dfcbc2c87e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "057de6771c69ea2f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "adaeaa0cff2f4042",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4f750138afdcd7bb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b6b228935b6df9c5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8b5a39afc3a76333",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "272a94153fbc1670",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 - QUICK NOTES/Demo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "dcd8481d04e2df33",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 - QUICK NOTES/Demo.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "445e3ba5d950c8b8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 - QUICK NOTES/Demo.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c2fb13eb3a797bc9",
+  "lastOpenFiles": [
+    "00 - DAILY NOTES",
+    "02 - QUICK NOTES/Template.md",
+    "04 - TEMPLATE/LEETCODE.md",
+    "02 - QUICK NOTES/Test.md",
+    "02 - QUICK NOTES/Demo.md",
+    "02 - QUICK NOTES/ASSETS",
+    "03 - RESOURCES",
+    "04 - TEMPLATE",
+    "05 - WORK/DSA NOTES",
+    "05 - WORK",
+    "99 - META",
+    "07 - INDEXES/ASSETS/WhatsApp Image 2024-12-07 at 1.14.46 AM.jpeg",
+    "07 - INDEXES/DSA.md",
+    "07 - INDEXES/ASSETS",
+    "07 - INDEXES",
+    "06 - TAGS/Strings.md",
+    "06 - TAGS/Arrays.md",
+    "06 - TAGS",
+    "01 - EXCALIDRAW/Drawing 2024-12-06 19.40.01.excalidraw.md",
+    "02 - QUICK NOTES"
+  ]
+}

@@ -3,5 +3,11 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "02 - QUICK NOTES",
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

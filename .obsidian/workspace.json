@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - WORK/DSA - NOTES/LINKED LIST/19. Remove Nth Node From End of List.md",
+                "file": "05 - WORK/DSA - NOTES/LINKED LIST/83. Remove Duplicates from Sorted List.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. Remove Nth Node From End of List"
+              "title": "83. Remove Duplicates from Sorted List"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05 - WORK/DSA - NOTES/LINKED LIST/19. Remove Nth Node From End of List.md",
+                "file": "05 - WORK/DSA - NOTES/LINKED LIST/83. Remove Duplicates from Sorted List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 19. Remove Nth Node From End of List"
+              "title": "Graph of 83. Remove Duplicates from Sorted List"
             }
           }
         ]
@@ -220,6 +220,8 @@
   },
   "active": "50d0130093f7e2fa",
   "lastOpenFiles": [
+    "05 - WORK/DSA - NOTES/LINKED LIST/21. Merge Two Sorted Lists.md",
+    "05 - WORK/DSA - NOTES/LINKED LIST/19. Remove Nth Node From End of List.md",
     "05 - WORK/DSA - NOTES/LINKED LIST/2. Add Two Numbers.md",
     "05 - WORK/DSA - THEORY/HashSet Methods.md",
     "05 - WORK/DSA - THEORY/HashMap Methods.md",
@@ -240,7 +242,6 @@
     "05 - WORK/DSA - NOTES/ARRAYS/BINARY SEARCH/704. Binary Search.md",
     "05 - WORK/DSA - NOTES/ARRAYS/BINARY SEARCH/4. Median of Two Sorted Arrays.md",
     "99 - META/My-obsidian",
-    "05 - WORK/DSA - NOTES/LINKED LIST/19. Remove Nth Node From End of List.md",
     "01 - EXCALIDRAW/4.Leetcode-Drawing.md",
     "05 - WORK/DSA - NOTES.zip",
     "05 - WORK/DSA - NOTES/LINKED LIST/Untitled.md",
@@ -248,7 +249,6 @@
     "05 - WORK/DSA - NOTES/LINKED LIST/287. Find the Duplicate Number.md",
     "05 - WORK/DSA - NOTES/LINKED LIST/234. Palindrome Linked List.md",
     "05 - WORK/DSA - NOTES/LINKED LIST/206. Reverse Linked List.md",
-    "05 - WORK/DSA - NOTES/LINKED LIST/202. Happy Number.md",
     "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/287. Examples.png",
     "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/287. Find the Duplicate Number.png",
     "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/138. Examples.png",

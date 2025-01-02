@@ -1,3 +1,5 @@
-- Peak of the mountain
-- Pivot of the rotated sorted array
-- Floor and ceiling of a number
+### Patterns:
+
+1. Peak of the mountain
+2. Pivot of the rotated sorted array
+3. Floor and ceiling of a number

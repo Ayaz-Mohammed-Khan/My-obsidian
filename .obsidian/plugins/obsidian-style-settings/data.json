@@ -132,5 +132,7 @@
   "Editor@@code-property@@dark": "#98C379",
   "Editor@@code-punctuation@@dark": "#DCDCDC",
   "Editor@@code-tag@@dark": "#56B6C2",
-  "Editor@@code-value@@dark": "#B8860B"
+  "Editor@@code-value@@dark": "#B8860B",
+  "obsidian-execute-code@@use-custom-output-color": true,
+  "obsidian-execute-code@@use-custom-error-color": true
 }

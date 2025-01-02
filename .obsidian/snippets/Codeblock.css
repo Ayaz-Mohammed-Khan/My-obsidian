@@ -1,0 +1,47 @@
+code-normal {
+	color: #242424;
+}
+
+code-comment {
+	color: #808080;
+}
+
+code-keyword {
+	color: #000080;
+}
+
+code-string {
+	color: #228b22;
+}
+
+code-number {
+	color: #0000ff;
+}
+
+code-class {
+	color: #008000;
+}
+
+code-function {
+	color: #8b008b;
+}
+
+code-variable {
+	color: #000000;
+}
+
+code-constant {
+	color: #8b4513;
+}
+
+code-annotation {
+	color: #8a2be2;
+}
+
+code-operator {
+	color: #000000;
+}
+
+code-punctuation {
+	color: #000000;
+}

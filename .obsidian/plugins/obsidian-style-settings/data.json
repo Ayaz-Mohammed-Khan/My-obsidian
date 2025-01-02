@@ -124,5 +124,7 @@
   "Editor@@code-tag@@dark": "#8A2BE2",
   "Editor@@code-value@@dark": "#0000FF",
   "obsidian-execute-code@@use-custom-output-color": true,
-  "obsidian-execute-code@@use-custom-error-color": true
+  "obsidian-execute-code@@use-custom-error-color": true,
+  "Editor@@code-background-dark": "#282828",
+  "Editor@@code-normal@@dark": "#ABB2BF"
 }

@@ -5,9 +5,9 @@
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "Legal",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 50
+    "downscalePercent": 100
   }
 }

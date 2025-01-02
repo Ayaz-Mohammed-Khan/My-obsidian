@@ -1,47 +1,22 @@
-code-normal {
-	color: #242424;
+/* Code block background color */
+.HyperMD-codeblock,
+pre[class*="language-"] {
+	background-color: #242424; /* Dark background for code blocks */
+	color: #b3b3b3; /* Default text color */
 }
 
-code-comment {
-	color: #808080;
+/* Syntax highlighting colors */
+.HyperMD-codeblock code[class*="language-"] {
+	--code-background: #242424; /* Background for code blocks */
+	--code-normal: #b3b3b3; /* Normal text color */
+	--code-comment: #7d7d7d; /* Comment color */
+	--code-function: #ff5555; /* Function names */
+	--code-keyword: #fa99cd; /* Keywords */
+	--code-string: #87d96c; /* String literals */
+	--code-number: #dfbfff; /* Numbers */
 }
 
-code-keyword {
-	color: #000080;
-}
-
-code-string {
-	color: #228b22;
-}
-
-code-number {
-	color: #0000ff;
-}
-
-code-class {
-	color: #008000;
-}
-
-code-function {
-	color: #8b008b;
-}
-
-code-variable {
-	color: #000000;
-}
-
-code-constant {
-	color: #8b4513;
-}
-
-code-annotation {
-	color: #8a2be2;
-}
-
-code-operator {
-	color: #000000;
-}
-
-code-punctuation {
-	color: #000000;
+/* Caret color in code blocks */
+.caret {
+	color: #dadada; /* Caret color for visibility */
 }

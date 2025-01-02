@@ -119,7 +119,7 @@
   "Editor@@h6-accent-color@@dark": "#59A2C5",
   "Editor@@callout-title-size": "\"\"",
   "Plugin@@colorful-checkbox": false,
-  "Editor@@codeblock-style-select": "codeblock-style-customize",
   "Editor@@code-background-light": "\"\"",
-  "Editor@@code-background-dark": "#00000"
+  "Editor@@code-background-dark": "#696969",
+  "Editor@@codeblock-style-select": "codeblock-style-one-dark"
 }

@@ -1,22 +1,37 @@
 /* Code block background color */
-.HyperMD-codeblock,
-pre[class*="language-"] {
+.markdown-preview-view pre {
 	background-color: #242424; /* Dark background for code blocks */
 	color: #b3b3b3; /* Default text color */
+	border-radius: 4px; /* Optional: Rounded corners */
+	padding: 10px; /* Optional: Padding for better spacing */
 }
 
 /* Syntax highlighting colors */
-.HyperMD-codeblock code[class*="language-"] {
-	--code-background: #242424; /* Background for code blocks */
-	--code-normal: #b3b3b3; /* Normal text color */
-	--code-comment: #7d7d7d; /* Comment color */
-	--code-function: #ff5555; /* Function names */
-	--code-keyword: #fa99cd; /* Keywords */
-	--code-string: #87d96c; /* String literals */
-	--code-number: #dfbfff; /* Numbers */
+.markdown-preview-view .cm-comment {
+	color: #7d7d7d; /* Comment color */
 }
 
-/* Caret color in code blocks */
-.caret {
-	color: #dadada; /* Caret color for visibility */
+.markdown-preview-view .cm-keyword {
+	color: #ff79c6; /* Keyword color */
+}
+
+.markdown-preview-view .cm-variable,
+.markdown-preview-view .cm-variable-2 {
+	color: #f8f8f2; /* Variable names */
+}
+
+.markdown-preview-view .cm-string {
+	color: #50fa7b; /* String literals */
+}
+
+.markdown-preview-view .cm-number {
+	color: #bd93f9; /* Numbers */
+}
+
+.markdown-preview-view .cm-function {
+	color: #ffb86c; /* Function names */
+}
+
+.markdown-preview-view .cm-operator {
+	color: #ff5555; /* Operators */
 }

@@ -121,5 +121,16 @@
   "Editor@@callout-title-size": "\"\"",
   "obsidian-execute-code@@use-custom-output-color": false,
   "obsidian-execute-code@@use-custom-error-color": false,
-  "Editor@@code-background-dark": "#282828"
+  "Editor@@code-background-dark": "#282828",
+  "Editor@@code-normal@@dark": "#B3B3B3",
+  "Editor@@code-comment@@dark": "#7D7D7D",
+  "Editor@@code-function@@dark": "#61AFEF",
+  "Editor@@code-important@@dark": "#E06C75",
+  "Editor@@code-keyword@@dark": "#C678DD",
+  "Editor@@code-operator@@dark": "#E5C07B",
+  "Editor@@code-property@@dark": "#56B6C2",
+  "Editor@@code-punctuation@@dark": "#B3B3B3",
+  "Editor@@code-string@@dark": "#98C379",
+  "Editor@@code-tag@@dark": "#D19A66",
+  "Editor@@code-value@@dark": "#FF6F61"
 }

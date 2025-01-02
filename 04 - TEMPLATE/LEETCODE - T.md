@@ -1,6 +1,6 @@
 
 Date: <% tp.date.now("Do MMMM YYYY") %>
-Tags: [[Linked List]]
+Tags: [[Sliding window]]
 
 ---
 ## Problem

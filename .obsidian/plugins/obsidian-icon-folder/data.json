@@ -42,6 +42,6 @@
   "02 - QUICK NOTES": "LiNotebookPen",
   "07 - INDEXES": "LiAlignJustify",
   "00 - DAILY NOTES": "LiTimer",
-  "05 - WORK/DSA - NOTES": "LiBrain",
-  "05 - WORK/DSA - THEORY": "LiNotepadTextDashed"
+  "05 - WORK/DSA - THEORY": "LiNotepadTextDashed",
+  "05 - WORK/DSA - PROBLEMS": "LiBrain"
 }

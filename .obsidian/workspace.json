@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - INDEXES/DSA.md",
+                "file": "05 - WORK/DSA - PROBLEMS/SLIDING WINDOW/1423. Maximum Points You Can Obtain from Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "1423. Maximum Points You Can Obtain from Cards"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "07 - INDEXES/DSA.md",
+                "file": "05 - WORK/DSA - PROBLEMS/SLIDING WINDOW/1423. Maximum Points You Can Obtain from Cards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DSA"
+              "title": "Graph of 1423. Maximum Points You Can Obtain from Cards"
             }
           }
         ]
@@ -220,52 +220,52 @@
   },
   "active": "50d0130093f7e2fa",
   "lastOpenFiles": [
-    "06 - TAGS/Sliding window.md",
+    "05 - WORK/DSA - PROBLEMS/SLIDING WINDOW/ASSETS/1423. Examples.png",
+    "05 - WORK/DSA - PROBLEMS/SLIDING WINDOW/ASSETS/1423. Maximum Points You Can Obtain from Cards.png",
+    "05 - WORK/DSA - PROBLEMS/SLIDING WINDOW/ASSETS",
+    "04 - TEMPLATE/LEETCODE - T.md",
+    "06 - TAGS/Linked List.md",
+    "05 - WORK/DSA - PROBLEMS/SLIDING WINDOW/1423. Maximum Points You Can Obtain from Cards.md",
     "07 - INDEXES/DSA.md",
+    "05 - WORK/DSA - PROBLEMS/SLIDING WINDOW",
+    "06 - TAGS/Sliding window.md",
     "06 - TAGS/HashMap.md",
     "06 - TAGS/Two Pointers.md",
     "06 - TAGS/Striver A-Z.md",
     "06 - TAGS/Strings.md",
     "06 - TAGS/N-150.md",
-    "06 - TAGS/Linked List.md",
     "06 - TAGS/Leetcode.md",
     "06 - TAGS/Kunal kushwaha.md",
     "06 - TAGS/GFG.md",
     "06 - TAGS/Fast and slow pointer.md",
     "06 - TAGS/Binary Search.md",
     "06 - TAGS/Arrays.md",
-    "05 - WORK/DSA - NOTES/LINKED LIST/83. Remove Duplicates from Sorted List.md",
-    "05 - WORK/DSA - NOTES/LINKED LIST/21. Merge Two Sorted Lists.md",
-    "05 - WORK/DSA - NOTES/LINKED LIST/19. Remove Nth Node From End of List.md",
-    "05 - WORK/DSA - NOTES/LINKED LIST/2. Add Two Numbers.md",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/83. Remove Duplicates from Sorted List.md",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/21. Merge Two Sorted Lists.md",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/19. Remove Nth Node From End of List.md",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/2. Add Two Numbers.md",
     "05 - WORK/DSA - THEORY/HashSet Methods.md",
     "05 - WORK/DSA - THEORY/HashMap Methods.md",
-    "04 - TEMPLATE/LEETCODE - T.md",
     "02 - QUICK NOTES/TOPICS FOR REVISION.md",
     "05 - WORK/DSA - THEORY",
-    "05 - WORK/DSA - NOTES/ARRAYS/BINARY SEARCH/1095. Find in Mountain Array.md",
-    "05 - WORK/DSA - NOTES/ARRAYS/BINARY SEARCH/981. Time Based Key-Value Store.md",
-    "01 - EXCALIDRAW/981.Leetcode-Drawing.md",
-    "05 - WORK/DSA - NOTES/ARRAYS/BINARY SEARCH/875. Koko Eating Bananas.md",
+    "05 - WORK/DSA - PROBLEMS/ARRAYS/BINARY SEARCH/1095. Find in Mountain Array.md",
+    "05 - WORK/DSA - PROBLEMS/ARRAYS/BINARY SEARCH/981. Time Based Key-Value Store.md",
     "99 - META/My-obsidian",
     "05 - WORK/DSA - NOTES.zip",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/287. Examples.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/287. Find the Duplicate Number.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/138. Examples.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/138. Copy List with Random Pointer.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/19. Examples.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/19. Remove Nth Node From End of List.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/143. Examples.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/143. Reorder List.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/234. Examples.png",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS/234. Palindrome Linked List.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/287. Examples.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/287. Find the Duplicate Number.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/138. Examples.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/138. Copy List with Random Pointer.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/19. Examples.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/19. Remove Nth Node From End of List.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/143. Examples.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/143. Reorder List.png",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS/234. Examples.png",
     "desktop.ini",
-    "05 - WORK/DSA - NOTES/LINKED LIST/ASSETS",
-    "05 - WORK/DSA - NOTES/LINKED LIST",
-    "05 - WORK/DSA - NOTES/ARRAYS/BINARY SEARCH",
-    "05 - WORK/DSA - NOTES/ARRAYS/BINARY SEARCH/ASSETS",
-    "05 - WORK/DSA - NOTES/ARRAYS",
-    "05 - WORK/NEETCODE-150/desktop.ini",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST/ASSETS",
+    "05 - WORK/DSA - PROBLEMS/LINKED LIST",
+    "05 - WORK/DSA - PROBLEMS/ARRAYS/BINARY SEARCH",
+    "05 - WORK/DSA - PROBLEMS/ARRAYS/BINARY SEARCH/ASSETS",
     "Untitled.canvas"
   ]
 }

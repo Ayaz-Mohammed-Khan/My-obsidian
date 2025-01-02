@@ -120,6 +120,11 @@
   "Editor@@callout-title-size": "\"\"",
   "Plugin@@colorful-checkbox": false,
   "Editor@@code-background-light": "\"\"",
-  "Editor@@code-background-dark": "#696969",
-  "Editor@@codeblock-style-select": "codeblock-style-one-dark"
+  "Editor@@code-background-dark": "#282828",
+  "Editor@@codeblock-style-select": "codeblock-style-customize",
+  "Editor@@code-normal@@dark": "#B3B3B3",
+  "Editor@@code-comment@@dark": "#7D7D7D",
+  "Editor@@code-keyword@@dark": "#73D0FF",
+  "Editor@@code-function@@dark": "#FFAD66",
+  "Editor@@code-string@@dark": "#87D96C"
 }

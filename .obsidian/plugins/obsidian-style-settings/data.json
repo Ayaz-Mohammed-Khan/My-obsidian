@@ -121,10 +121,16 @@
   "Plugin@@colorful-checkbox": false,
   "Editor@@code-background-light": "\"\"",
   "Editor@@code-background-dark": "#282828",
-  "Editor@@codeblock-style-select": "codeblock-style-customize",
-  "Editor@@code-normal@@dark": "#B3B3B3",
-  "Editor@@code-comment@@dark": "#7D7D7D",
-  "Editor@@code-keyword@@dark": "#73D0FF",
-  "Editor@@code-function@@dark": "#FFAD66",
-  "Editor@@code-string@@dark": "#87D96C"
+  "Editor@@codeblock-style-select": "codeblock-style-one-dark",
+  "Editor@@code-normal@@dark": "#ABB2BF",
+  "Editor@@code-comment@@dark": "#77DD77",
+  "Editor@@code-keyword@@dark": "#D19A66",
+  "Editor@@code-function@@dark": "#61AFEF",
+  "Editor@@code-string@@dark": "#E5C07B",
+  "Editor@@code-important@@dark": "#E06C75",
+  "Editor@@code-operator@@dark": "#C678DD",
+  "Editor@@code-property@@dark": "#98C379",
+  "Editor@@code-punctuation@@dark": "#DCDCDC",
+  "Editor@@code-tag@@dark": "#56B6C2",
+  "Editor@@code-value@@dark": "#B8860B"
 }
